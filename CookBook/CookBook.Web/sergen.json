@@ -1,0 +1,15 @@
+﻿{
+  "RootNamespace": "CookBook",
+  "ServerTypings": {
+    "LocalTexts": true
+  },
+  "Restore": {
+    "Exclude": [
+      "/wwwroot/Scripts/serenity/Serenity.CoreLib*.*"
+    ]
+  },
+  "UpgradeInfo": {
+    "InitialType": "Community",
+    "InitialVersion": "6.0.3.0"
+  }
+}
